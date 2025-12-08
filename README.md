@@ -2,7 +2,7 @@
 
 A beautiful and functional expense tracking application built with Flutter. Track your daily expenses, visualize spending patterns, and manage your budget effectively.
 
-![App Screenshot](screenshots/home.png)
+
 
 ## ✨ Features
 
