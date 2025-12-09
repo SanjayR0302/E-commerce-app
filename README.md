@@ -1,28 +1,16 @@
-# 💰 Expense Tracker - Flutter Mobile App
+# ecommerce_app
 
-A beautiful and functional expense tracking application built with Flutter. Track your daily expenses, visualize spending patterns, and manage your budget effectively.
+A new Flutter project.
 
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-## ✨ Features
+A few resources to get you started if this is your first Flutter project:
 
-- **Add Expenses**: Quickly add expenses with title, amount, category, and date
-- **Edit/Delete**: Modify or remove existing expenses with simple gestures
-- **Category Management**: Categorize expenses (Food, Transport, Shopping, etc.)
-- **Visual Analytics**: Interactive pie chart showing expense distribution
-- **Local Storage**: Data persistence using SQLite database
-- **Responsive UI**: Works seamlessly on different screen sizes
-- **Statistics View**: Detailed breakdown of spending patterns
-- **Search & Filter**: (Coming soon - can be your enhancement!)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-## 🛠️ Tech Stack
-
-- **Frontend**: Flutter 3.0+
-- **State Management**: Provider
-- **Database**: SQLite (sqflite package)
-- **Charts**: fl_chart
-- **Date Picker**: intl package
-- **Architecture**: MVC Pattern
-
-## 📁 Project Structure
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
